@@ -1,0 +1,30 @@
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.csproj.AssemblyReference.cache
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.AssemblyInfoInputs.cache
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.AssemblyInfo.cs
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.csproj.CoreCompileInputs.cache
+C:\C#\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.exe
+C:\C#\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.deps.json
+C:\C#\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.runtimeconfig.json
+C:\C#\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.dll
+C:\C#\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.pdb
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.dll
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\refint\Uebung_Auto.dll
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.pdb
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.genruntimeconfig.cache
+C:\C#\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\ref\Uebung_Auto.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.exe
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.deps.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.runtimeconfig.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\bin\Debug\net7.0\Uebung_Auto.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.csproj.AssemblyReference.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.AssemblyInfoInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.AssemblyInfo.cs
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.csproj.CoreCompileInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\refint\Uebung_Auto.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\Uebung_Auto.genruntimeconfig.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Uebung_Auto\Uebung_Auto\obj\Debug\net7.0\ref\Uebung_Auto.dll
