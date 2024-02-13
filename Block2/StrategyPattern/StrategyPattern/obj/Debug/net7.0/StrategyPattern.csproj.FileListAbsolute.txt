@@ -1,0 +1,15 @@
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.exe
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.deps.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.runtimeconfig.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\refint\StrategyPattern.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\StrategyPattern\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll
