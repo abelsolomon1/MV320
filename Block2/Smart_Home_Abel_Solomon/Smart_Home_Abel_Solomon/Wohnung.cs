@@ -9,6 +9,19 @@ namespace Smart_Home_Abel_Solomon
     internal class Wohnung
     {
         //Methoden
-        public void   
+        public void GeneriereWetterdaten()
+        {
+
+        }
+
+        public void SetPersonenImZimmer()
+        {
+
+        }
+
+        public void SetTemperaturvorgabe(double temperatur)
+        {
+            
+        }
     }
 }
