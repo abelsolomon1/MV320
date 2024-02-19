@@ -1,0 +1,15 @@
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\bin\Debug\net7.0\Smart_Home_Abel_Solomon.exe
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\bin\Debug\net7.0\Smart_Home_Abel_Solomon.deps.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\bin\Debug\net7.0\Smart_Home_Abel_Solomon.runtimeconfig.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\bin\Debug\net7.0\Smart_Home_Abel_Solomon.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\bin\Debug\net7.0\Smart_Home_Abel_Solomon.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\Smart_Home_Abel_Solomon.csproj.AssemblyReference.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\Smart_Home_Abel_Solomon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\Smart_Home_Abel_Solomon.AssemblyInfoInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\Smart_Home_Abel_Solomon.AssemblyInfo.cs
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\Smart_Home_Abel_Solomon.csproj.CoreCompileInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\Smart_Home_Abel_Solomon.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\refint\Smart_Home_Abel_Solomon.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\Smart_Home_Abel_Solomon.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\Smart_Home_Abel_Solomon.genruntimeconfig.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block2\Smart_Home_Abel_Solomon\Smart_Home_Abel_Solomon\obj\Debug\net7.0\ref\Smart_Home_Abel_Solomon.dll

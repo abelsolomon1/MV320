@@ -20,7 +20,7 @@ namespace Smart_Home_Abel_Solomon
         //Methoden
         public void VerarbeiteWetterdaten(Wetterdaten wetterdaten)
         {
-
+            
         }
 
     }

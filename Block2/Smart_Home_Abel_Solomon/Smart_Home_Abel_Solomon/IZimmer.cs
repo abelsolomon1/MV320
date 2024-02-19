@@ -13,9 +13,9 @@ namespace Smart_Home_Abel_Solomon
         public double TemperaturVorgabe { get; set; }
 
         //Methoden
-        public void VerarbeiteWetterdaten(Wetterdaten wetterdaten)
-        {
+        public void VerarbeiteWetterdaten(Wetterdaten wetterdaten);
+        
             
-        }
+        
     }
 }

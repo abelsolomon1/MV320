@@ -16,9 +16,16 @@ namespace Smart_Home_Abel_Solomon
         //Methode
         public Wetterdaten GetWetterdaten()
         {
-            return new Wetterdaten();
+            Random zufaellig = new Random(); // Initialisiere das Zufallsobjekt
+                                             
+            Wetterdaten wetterdaten = new Wetterdaten();
+
+            // Generierung von Wetterdaten
+            wetterdaten.Aussentemperatur = zufaellig.Next(MIN_TEMP, MAX_TEMP);
+            wetterdaten.Regen = (zufaellig.Next(0, 2) == 1) ? true : false;
+            wetterdaten.Windgeschwindigkeit = zufaellig.Next(0, 60); 
+
+            return wetterdaten;
         }
-        
-       
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Smart_Home_Abel_Solomon/1.0.0": {
+        "runtime": {
+          "Smart_Home_Abel_Solomon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smart_Home_Abel_Solomon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

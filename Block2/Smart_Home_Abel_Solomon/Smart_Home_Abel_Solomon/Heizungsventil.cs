@@ -11,9 +11,21 @@ namespace Smart_Home_Abel_Solomon
         private bool heizungsventilOffen { get; set; }
 
         //Methoden      
-        public void VerarbeiteWetterdaten(Wetterdaten wetterdaten)
+        public void VerarbeiteWetterdaten(Wetterdaten wetterdaten, IZimmer zimmer)
         {
-
+            
+            if (wetterdaten.Aussentemperatur < zimmer.TemperaturVorgabe)
+            {
+                heizungsventilOffen = true;
+                Console.WriteLine("Heizungsventil wurde geöffnet.");
+                
+            }
+            else
+            {
+                heizungsventilOffen = false;
+                Console.WriteLine("Heizungsventil wurde geschlossen.");
+                
+            }
         }
     }
 }

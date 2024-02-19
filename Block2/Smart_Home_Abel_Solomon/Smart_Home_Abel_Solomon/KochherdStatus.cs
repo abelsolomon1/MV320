@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Smart_Home_Abel_Solomon
 {
-    internal class KochherdStatus
+    internal enum KochherdStatus
     {
+        Aus,
+        Ein,
+        AusAberNochWarm
+
     }
 }
