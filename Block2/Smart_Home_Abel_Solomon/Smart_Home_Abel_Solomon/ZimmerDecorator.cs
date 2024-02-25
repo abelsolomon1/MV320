@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Smart_Home_Abel_Solomon
 {
-    abstract class ZimmerDecorator
+    abstract class ZimmerDecorator : IZimmer
     {
         protected IZimmer zimmer { get; set; }
 

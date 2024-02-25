@@ -12,11 +12,12 @@ namespace Smart_Home_Abel_Solomon
 
         public override void VerarbeiteWetterdaten(Wetterdaten wetterdaten)
         {
-            // Logik zur Verarbeitung der Wetterdaten in der Küche
-            if (KochherdStatus == KochherdStatus.Ein)
-            {
-                Console.WriteLine("Überprüfung der Temperatur des Kochherdes und gegebenenfalls Anpassung");
-            }
+
+            KochherdStatus = KochherdStatus.Ein;
+            
+            Console.WriteLine("Der Kochherd ist" + KochherdStatus);
+            
+            
         }
 
 

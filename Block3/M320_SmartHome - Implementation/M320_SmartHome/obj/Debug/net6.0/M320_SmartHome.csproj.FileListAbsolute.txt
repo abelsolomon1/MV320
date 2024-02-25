@@ -1,0 +1,15 @@
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.exe
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.deps.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.runtimeconfig.json
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\bin\Debug\net6.0\M320_SmartHome.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.csproj.AssemblyReference.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.AssemblyInfoInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.AssemblyInfo.cs
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.csproj.CoreCompileInputs.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\refint\M320_SmartHome.dll
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.pdb
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\M320_SmartHome.genruntimeconfig.cache
+C:\Users\Abel Solomon (Schule\OneDrive - Kt. SG BLD\Fächer\Module\mV320\Block3\M320_SmartHome - Implementation\M320_SmartHome\obj\Debug\net6.0\ref\M320_SmartHome.dll

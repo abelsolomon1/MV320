@@ -6,14 +6,25 @@ using System.Threading.Tasks;
 
 namespace Smart_Home_Abel_Solomon
 {
-    internal class Zimmer : IZimmer
+    internal class Zimmer : IZimmer 
     {
         public string Name { get; set; }
+
         public bool PersonenImZimmer { get; set; }
         public double TemperaturVorgabe { get; set; }
 
+
+        
+       // Jalousiensteuerung jalousiensteuerung = new Jalousiensteuerung();
+
         public virtual void VerarbeiteWetterdaten(Wetterdaten Wetterdaten) //virtual weil es sonst fehlermeldungen in den anderen Klassen gibt
         {
+           /*if (PersonenImZimmer = true )
+            {
+           
+                Jalousiensteuerung.VerarbeiteWetterdaten();
+            }
+           */
             
         }
     }

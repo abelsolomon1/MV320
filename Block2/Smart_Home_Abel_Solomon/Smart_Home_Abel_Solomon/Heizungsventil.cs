@@ -25,6 +25,7 @@ namespace Smart_Home_Abel_Solomon
                 heizungsventilOffen = false;
                 Console.WriteLine("Heizungsventil wurde geschlossen.");
                 
+                
             }
         }
     }
