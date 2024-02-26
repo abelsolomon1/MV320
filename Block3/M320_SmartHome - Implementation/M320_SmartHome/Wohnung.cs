@@ -33,5 +33,11 @@
                 zimmer.VerarbeiteWetterdaten(wetterdaten);
             }
         }
+
+        public void AddZimmer(IZimmer zimmer)
+        {
+            zimmerList.Add(zimmer);
+        }
+
     }
 }
